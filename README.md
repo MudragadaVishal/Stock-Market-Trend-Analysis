@@ -50,7 +50,7 @@ LSTM models are highly effective for time-series data as they capture long-term 
 ---
 
 ## ▶️ Project Demo Video
-📽️ **Google Drive Demo Link:**  
+📽️ **Demo video with project explanation:**  
 👉 https://drive.google.com/file/d/14h2RFR6FgVbJBmeUmUuQFIIeCnTw67B4/view?usp=drive_link 
 
 
