@@ -32,7 +32,7 @@ LSTM models are highly effective for time-series data as they capture long-term 
 
 ## 🚀 Results
 - Effective learning of long-term stock market trends  
-- High prediction accuracy (**90–98%**)  
+- High prediction accuracy (**92–98%**)  
 - Demonstrates strong application of deep learning in financial analysis  
 
 ---
